@@ -2,7 +2,8 @@ body {
 	width: 100wh;
 	height: 90vh;
 	color: #fff;
-	background-color: #000;
+	background: linear-gradient(-45deg, #000000, #000000, #000000, #000000);
+	background-size: 400% 400%;
 }
 
 h1{
